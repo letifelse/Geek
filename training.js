@@ -26,3 +26,4 @@ const distance = calculateDistance('Winterfell', 'The Twins') + calculateDistanc
 console.log(distance);
 
 console.log()
+// итмитмитмтм
