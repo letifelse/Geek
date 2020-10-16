@@ -24,3 +24,5 @@ console.log(Math.min(3, 10, 22, -3, 0));
 
 const distance = calculateDistance('Winterfell', 'The Twins') + calculateDistance('The Twins', 'The Eyrie');
 console.log(distance);
+
+console.log()
